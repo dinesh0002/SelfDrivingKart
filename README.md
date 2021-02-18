@@ -11,3 +11,5 @@ This is an Autonomous Self all wheel electric Go Kart. Designed and Developed by
 -> https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles/discussion/177251 ( Playlist on building a self driving car )
 
 -> https://towardsdatascience.com/why-tesla-wont-use-lidar-57c325ae2ed5 ( Information on LIDAR usage )
+
+-> https://www.mathworks.com/products/automated-driving.html ( MATLAB DRIVING TOOLBAX WITH LIVE MAP ENCAPSULATION )
