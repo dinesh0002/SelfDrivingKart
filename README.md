@@ -21,3 +21,5 @@ This is an Autonomous Self all wheel electric Go Kart. Designed and Developed by
 -> https://www.youtube.com/watch?v=w4s9LSoAG0g ( SENSORS IN A CAR )
 
 -> https://arxiv.org/pdf/1807.00412.pdf ( research paper on reinforcement algorithm )
+
+-> https://wayve.ai/blog/driving-computer-vision-with-deep-learning ( Driving Computer Vision with Deep Learning )
