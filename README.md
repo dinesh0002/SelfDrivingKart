@@ -13,3 +13,5 @@ This is an Autonomous Self all wheel electric Go Kart. Designed and Developed by
 -> https://towardsdatascience.com/why-tesla-wont-use-lidar-57c325ae2ed5 ( Information on LIDAR usage )
 
 -> https://www.mathworks.com/products/automated-driving.html ( MATLAB DRIVING TOOLBAX WITH LIVE MAP ENCAPSULATION )
+
+-> https://www.analyticsvidhya.com/blog/2018/07/autonomous-car-learnt-drive-itself-20-minutes-using-reinforcement-learning/ ( COMPUTER VISION BASED REINFORCEMENT LEARNING )
