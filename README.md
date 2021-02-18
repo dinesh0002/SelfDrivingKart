@@ -15,3 +15,5 @@ This is an Autonomous Self all wheel electric Go Kart. Designed and Developed by
 -> https://www.mathworks.com/products/automated-driving.html ( MATLAB DRIVING TOOLBAX WITH LIVE MAP ENCAPSULATION )
 
 -> https://www.analyticsvidhya.com/blog/2018/07/autonomous-car-learnt-drive-itself-20-minutes-using-reinforcement-learning/ ( COMPUTER VISION BASED REINFORCEMENT LEARNING )
+
+-> https://wayve.ai/blog/learning-to-drive-in-a-day-with-reinforcement-learning  ( COMPUTER VISION BASED REINFORCEMENT LEARNING )
