@@ -23,3 +23,5 @@ This is an Autonomous Self all wheel electric Go Kart. Designed and Developed by
 -> https://arxiv.org/pdf/1807.00412.pdf ( research paper on reinforcement algorithm )
 
 -> https://wayve.ai/blog/driving-computer-vision-with-deep-learning ( Driving Computer Vision with Deep Learning )
+
+-> https://www.indiamart.com/aggarwalevehicles/hub-motor.html#motor-48v-900w ( 48 V 900 W BLDC MOTOR )
