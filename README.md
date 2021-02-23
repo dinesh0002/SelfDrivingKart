@@ -27,3 +27,5 @@ This is an Autonomous Self all wheel electric Go Kart. Designed and Developed by
 -> https://www.indiamart.com/aggarwalevehicles/hub-motor.html#motor-48v-900w ( 48 V 900 W BLDC MOTOR )
 
 -> https://www.indiamart.com/proddetail/40-inch-differential-axle-kit-with-2-2-kw-bldc-motor-controller-21261489833.html ( motor with kit )
+
+-> https://onlinelibrary.wiley.com/doi/pdf/10.4218/etrij.15.0114.0123 ( Autonomous steering control reference and building )
