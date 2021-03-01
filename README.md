@@ -31,3 +31,5 @@ This is an Autonomous Self all wheel electric Go Kart. Designed and Developed by
 -> https://onlinelibrary.wiley.com/doi/pdf/10.4218/etrij.15.0114.0123 ( Autonomous steering control reference and building )
 
 -> https://www.youtube.com/watch?v=CcUXtViFQeU ( self driving go kart )
+
+-> https://skill-lync.com/projects/final-project-design-of-an-electric-vehicle-27 ( design and modelling of EV in MATLAB )
